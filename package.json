@@ -1,0 +1,24 @@
+{
+  "name": "languageutils",
+  "version": "1.0.0",
+  "description": "Utils for langauge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://FlowerGeoji@github.com/FlowerGeoji/LanguageUtils.git"
+  },
+  "keywords": [
+    "language",
+    "korean",
+    "english"
+  ],
+  "author": "FlowerGeoji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlowerGeoji/LanguageUtils/issues"
+  },
+  "homepage": "https://github.com/FlowerGeoji/LanguageUtils#readme"
+}
